@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/prav10194/botkit-facebook-wrapper#readme",
   "dependencies": {
-    "botkit": "^0.6.7",
+    "botkit": "^0.6.21",
     "dotenv": "^4.0.0",
-    "express": "^4.16.2"
+    "express": "^4.18.2"
   }
 }
